@@ -89,3 +89,10 @@ form button {
   margin-bottom: 10px;
 }
 
+.datos-curiosos-lista {
+  list-style-type: none;
+}
+
+.dato-curioso-item {
+  margin-bottom: 10px;
+}
